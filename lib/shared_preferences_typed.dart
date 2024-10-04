@@ -1,5 +1,3 @@
-library shared_preferences_typed;
-
 import 'package:shared_preferences/shared_preferences.dart';
 
 /// A typed [SharedPreferences] wrapper.
